@@ -1,0 +1,29 @@
+body{
+    background-color: khaki;
+    padding: 15px;
+}
+.titulos{
+    text-align: center;
+    color: darkred;
+}
+.respuesta{
+    background-color: royalblue;
+    color: black;
+    padding: 16px;
+    text-align: center;
+    font-size: 20px;
+}
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: burlywood;
+  }
+  button{
+    background-color: brown;
+    color: azure;
+    font-size: 16px;
+    padding: 10px;
+  }
+ 
